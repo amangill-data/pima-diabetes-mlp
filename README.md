@@ -22,12 +22,12 @@ Developed as a midterm project for the course **ADTA 5550: Deep Learning with Bi
 
 This project compares two multi-layer perceptron (MLP) architectures:
 
-###  Part II: Baseline MLP
+###  Part I: Baseline MLP
 - Layers: 16 → 8 → 1
 - Activation: ReLU (hidden), Sigmoid (output)
 - Optimizer: Adam
 
-###  Part III: Redesigned MLP
+###  Part II: Redesigned MLP
 - Layers: 12 → 8 → 1
 - Enhancements: Dropout (0.4), Batch Normalization
 - Goal: Reduce overfitting and improve accuracy
