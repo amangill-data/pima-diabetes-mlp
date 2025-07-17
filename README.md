@@ -11,10 +11,7 @@ Developed as a midterm project for the course **ADTA 5550: Deep Learning with Bi
 
 ## Dataset Overview:
 
-- **Dataset:** Pima Indians Diabetes Dataset (UCI Repository)
-- **Samples:** 768 women (Pima heritage)
-- **Features:** 8 numeric health metrics (e.g., glucose level, BMI, insulin)
-- **Target:** 1 = diabetic, 0 = non-diabetic
+This project uses the Pima Indians Diabetes Dataset sourced from the UCI Machine Learning Repository. It contains data on 768 women of Pima heritage, each represented by 8 numerical health features such as glucose level, BMI, and insulin levels. The target variable indicates whether a patient is diabetic (1) or non-diabetic (0). The dataset was loaded via CSV for preprocessing and analysis.
 
 ---
 
