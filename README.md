@@ -1,4 +1,5 @@
 # Pima Diabetes MLP
+
 Deep learning project predicting diabetes outcomes from medical data using a multi-layer perceptron model. Includes both baseline and optimized network designs in Keras.
 
 ---
@@ -39,13 +40,17 @@ This project compares two multi-layer perceptron (MLP) architectures:
 
 ---
 
-## Repository Files
+## Project Structure:
 
-| File | Description |
-|------|-------------|
-| `Aman_PimaDiabetes-1.ipynb` | Baseline model implementation |
-| `AG_RePimaDiabetes-1.ipynb` | Redesigned model with improvements |
-| `ADTA5550_midterm.docx` | Written portion with metrics, discussion, and visuals |
+- `notebooks/ADTAFINAL.ipynb`  
+  Baseline model implementation
+
+- `notebooks/ADTAFINALP2.ipynb`  
+  Redesigned model with improvements
+
+- `report/ADTA5550_final_project.docx`  
+  Written portion with metrics, discussion, and visuals
+
 
 ---
 
